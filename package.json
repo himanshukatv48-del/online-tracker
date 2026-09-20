@@ -1,0 +1,11 @@
+{
+    "name": "online-tracker",
+    "version": "1.0.0",
+    "main": "tracker.js",
+    "scripts": {
+      "start": "node tracker.js"
+    },
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
